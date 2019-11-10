@@ -1,5 +1,7 @@
-This is a collection of statically linked binaries and libraries for a MIPS
-based router RT-N56U Wi-Fi router running Padavan firmware (https://bitbucket.org/padavan/rt-n56u).
+This is a collection of (almost) statically linked binaries and libraries for a MIPS
+based Wi-Fi router RT-N56U running Padavan firmware (https://bitbucket.org/padavan/rt-n56u).
+
+uClibc and libgcc may be linked dynamically.
 
 ## compilation notes
 
