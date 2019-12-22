@@ -11,5 +11,5 @@ INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES AND/OR CONDITIONS OF SATIS
 OF THIRD PARTY RIGHTS.
 
 ### LICENSE ###
-All software products are (c) their respected copyright owners and is provided as-is without any modifications. Source packages and license files
+All software is (c) their respected copyright owners and is provided as-is without any modifications. Source packages and license files
 can be obtained at origin repositories.
